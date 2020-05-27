@@ -1,0 +1,33 @@
+@import '~antd/dist/antd.css';
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 76vh;
+}
+
+.ant-layout-header {
+  height: 100px!important;
+  line-height: 100px!important;
+  background-color: grey;
+  background: black;
+}
+
+.ant-layout-content {
+  padding: 50px 50px 0px!important;
+  background-color: grey;
+  align-items: center;
+}
+
+
+
+.logo {
+  width: 140px;
+  height: 65px;
+  margin: 16px 50px 16px 0;
+  float: left;
+  background-color: grey;
+}
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected.customclass {
+  background-color: grey; 
+}
